@@ -10,6 +10,7 @@ const Landing: React.FC =  () => {
       <Button title="Rounded sm" styles="rounded-sm" />
       <Button title="Rounded md" styles="rounded-md" />
       <Button title="Rounded full" styles="rounded-full" />
+      <Button title="Rounded lg" styles="rounded-lg" />
     </div>
   )
 }
